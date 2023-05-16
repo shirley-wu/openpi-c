@@ -1,0 +1,7 @@
+transformers==2.11.0
+torch==1.7.0
+tensorboard==2.0
+pytest
+protobuf==3.20.0
+scipy==1.8.0
+numpy==1.19.0
