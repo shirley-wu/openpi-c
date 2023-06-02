@@ -2,7 +2,7 @@
 
 This repository is for our ACL2023 findings paper:
 
-*OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking*
+[OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking](https://arxiv.org/abs/2306.00887)
 
 The code is based on the original OpenPI dataset: https://allenai.org/data/openpi
 
